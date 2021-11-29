@@ -30,7 +30,7 @@ function Contents() {
         <br />
         <br /> 루루의 생일을 기다리며
         <br />
-        루루오빠, 루루언니가
+        루루 언니, 루루 오빠가
       </Typography>
     </ContentsWrapper>
   );

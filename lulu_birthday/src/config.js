@@ -5,7 +5,7 @@ const config = {
     kakaomapAPIKey: KAKAO_MAP_API_KEY,
     tmapAPIKey: T_MAP_API_KEY,
   },
-  title: `루루의 네번째 생일파티`,
+  title: `루루의 네번째 생일파티🎂`,
   author: {
     name: "루루",
   },
