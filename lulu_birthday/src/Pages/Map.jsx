@@ -31,7 +31,7 @@ function Map() {
   return (
     <>
       <MapInfoWrapper>
-        <h2>오시는길</h2>
+        <h2>찾아오는 길</h2>
         <p>{config.place.name}</p>
         <p>{config.place.address}</p>
         <p>문의 : {config.place.contact}</p>
