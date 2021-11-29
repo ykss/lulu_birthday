@@ -16,16 +16,22 @@ const GallaryWrapper = styled.div`
 
 const images = [
   {
-    original: "https://picsum.photos/id/1018/1000/600/",
-    thumbnail: "https://picsum.photos/id/1018/250/150/",
+    original:
+      "https://github.com/ykss/lulu_birthday/blob/master/lulu_birthday/src/Images/lulu1.jpeg?raw=true",
+    thumbnail:
+      "https://github.com/ykss/lulu_birthday/blob/master/lulu_birthday/src/Images/lulu1.jpeg?raw=true",
   },
   {
-    original: "https://picsum.photos/id/1015/1000/600/",
-    thumbnail: "https://picsum.photos/id/1015/250/150/",
+    original:
+      "https://github.com/ykss/lulu_birthday/blob/master/lulu_birthday/src/Images/lulu2.jpeg?raw=true",
+    thumbnail:
+      "https://github.com/ykss/lulu_birthday/blob/master/lulu_birthday/src/Images/lulu2.jpeg?raw=true",
   },
   {
-    original: "https://picsum.photos/id/1019/1000/600/",
-    thumbnail: "https://picsum.photos/id/1019/250/150/",
+    original:
+      "https://github.com/ykss/lulu_birthday/blob/master/lulu_birthday/src/Images/lulu3.jpeg?raw=true",
+    thumbnail:
+      "https://github.com/ykss/lulu_birthday/blob/master/lulu_birthday/src/Images/lulu3.jpeg?raw=true",
   },
 ];
 
